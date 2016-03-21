@@ -1,4 +1,4 @@
-## The ISS and effects of the theory of relativity
+## The ISS and Effects of the Theory of Relativity
 
 This work is part of a class at the University of Applied Sciences Potsdam. The project engages in understanding and connecting data and finally visualising it. 
 The only condition was to connect a dataset of free choice with the International Space Station (ISS) API from http://open-notify.com. It provides the current location of the ISS, the overhead pass prediction and the number of people in space, including their names. 
